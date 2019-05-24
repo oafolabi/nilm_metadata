@@ -7,3 +7,4 @@ docs/build
 .idea/
 build/
 dist/
+*_DS_Store*
