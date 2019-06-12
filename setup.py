@@ -72,7 +72,7 @@ setup(
 	description='Concatenate NILM metadata',
 	author='Jack Kelly',
 	author_email='jack.kelly@imperial.ac.uk',
-	url='https://github.com/nilmtk/nilm_metadata',
+	url='https://github.com/oafolabi/nilm_metadata',
 	download_url='https://github.com/nilmtk/nilm_metadata/archive/0.2.2.tar.gz',
 	#    long_description=open('README.md').read(),
 	license='MIT',
